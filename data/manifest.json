@@ -1,43 +1,71 @@
 [
   {
-    "id": "chapter8",
-    "title": "節錄版chapter8舞台選取及角色選擇 PDF",
-    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter8.pdf",
+    "id": "chapter14",
+    "title": "節錄版chapter14電子鐘設計 PDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter14.pdf",
     "views": 0,
     "likes": 0
   },
    {
-    "id": "chapter9",
-    "title": "節錄版chapter9Scratch創作旋律和舞蹈聯動 PDF",
-    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter9.pdf",
+    "id": "chapter15",
+    "title": "節錄版chapter15Scratch3的繪圖與繪圖功能 PDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter15.pdf",
     "views": 0,
     "likes": 0
   },
   {
-    "id": "chapter10",
-    "title": "節錄版chapter10Scratch跑馬模擬 PDF",
-    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter10.pdf",
+    "id": "chapter16",
+    "title": "節錄版chapter16Scratch繪製圓形和橢圓 PDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter16.pdf",
     "views": 0,
     "likes": 0
   },
   {
-    "id": "chapter11",
-    "title": "節錄版chapter11企鵝的世界 PDF",
-    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter11.pdf",
+    "id": "chapter17",
+    "title": "節錄版chapter17Scratch自訂數學函數與空間運算模組 PDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter17.pdf",
     "views": 0,
     "likes": 0
   },
   {
-    "id": "chapter12",
-    "title": "節錄版chapter12Scratch製作如何使用 AI Copilot簡報 PDF",
-    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter12.pdf",
+    "id": "chapter18",
+    "title": "節錄版chapter18三維特徵值與特徵向量模組 PDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter18.pdf",
     "views": 0,
     "likes": 0
   },
   {
-    "id": "chapter13",
-    "title": "節錄版chapter13詩詞賞析古典意境與Scratch創作 PDF",
-    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter13.pdf",
+    "id": "chapter19",
+    "title": "節錄版chapter19主成分分析PCA與Scratch 編程模組 PDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter19.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "chapter20",
+    "title": "節錄版chapter20精靈移動作幾何運算模組 PDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter20.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "chapter21",
+    "title": "節錄版chapter21Scratch笑臉繪製及矩陣轉換模組 PDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter21.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "chapter22",
+    "title": "節錄版chapter22Scratch文字處理模組 PDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter22.pdf",
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "chapter23",
+    "title": "節錄版chapter23Scratch中使用Micro_biDF",
+    "url": "https://chday169.github.io/Scratch_v2a/data/pdfs/chapter23.pdf",
     "views": 0,
     "likes": 0
   }
